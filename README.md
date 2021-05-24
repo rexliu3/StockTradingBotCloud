@@ -175,15 +175,15 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 * [Font Awesome](https://fontawesome.com)
 
 
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/rexliu3/StockTradingBotCloud?style=for-the-badge
 [contributors-url]: https://github.com/rexliu3/StockTradingBotCloud/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/rexliu3/StockTradingBotCloud?style=for-the-badge
 [forks-url]: https://github.com/rexliu3/StockTradingBotCloud/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/rexliu3/StockTradingBotCloud?style=for-the-badge
 [stars-url]: https://github.com/rexliu3/StockTradingBotCloud/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/rexliu3/StockTradingBotCloud?style=for-the-badge
 [issues-url]: https://github.com/rexliu3/StockTradingBotCloud/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/rexliu3/StockTradingBotCloud?style=for-the-badge
 [license-url]: https://github.com/rexliu3/StockTradingBotCloud/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/rexliu3
