@@ -39,36 +39,28 @@
   <img width="400" height="300" src="images/screenshot.png">
 </p>
 
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
-
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should element DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have have contributed to expanding this template!
-
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
+Python program that learns stock movement based on past and current data and buy/sells stocks accordingly
+* Implemented Alpaca Trading API to import data and create buy/sell orders
+* Designed AI software to predict the movement of stocks based on past data and current trends; creates buy/sell orders accordingly
+* Uploaded program to Google Cloud Storage to run infinitely on Google Cloud
+* Developed with Keras, Sklearn, Numpy, Pandas, and threading
 
 ### Built With
+* [Python](https://www.python.org/)
+* [Keras](https://keras.io/)
+* [scikit-learn](https://scikit-learn.org/)
+* [Numpy](https://numpy.org/)
+* [Pandas](https://pandas.pydata.org/)
+* [Google Cloud Platform](https://cloud.google.com/)
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-* [Laravel](https://laravel.com)
 
-
-
-<!-- GETTING STARTED -->
 ## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
 ### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
+* Python
+  ```sh
+  https://www.python.org/downloads/
+  ```
+* 
   ```sh
   npm install npm@latest -g
   ```
@@ -130,9 +122,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Rex Liu - [@your_twitter](https://twitter.com/your_username) - email@example.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/rexliu3/StockTradingBotCloud](https://github.com/rexliu3/StockTradingBotCloud)
 
 
 
