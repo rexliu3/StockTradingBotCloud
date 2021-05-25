@@ -123,22 +123,6 @@ Rex Liu - rexliu3@berkeley.edu
 Project Link: [https://github.com/rexliu3/StockTradingBotCloud](https://github.com/rexliu3/StockTradingBotCloud)
 
 
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Img Shields](https://shields.io)
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Pages](https://pages.github.com)
-* [Animate.css](https://daneden.github.io/animate.css)
-* [Loaders.css](https://connoratherton.com/loaders)
-* [Slick Carousel](https://kenwheeler.github.io/slick)
-* [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll)
-* [Sticky Kit](http://leafo.net/sticky-kit)
-* [JVectorMap](http://jvectormap.com)
-* [Font Awesome](https://fontawesome.com)
-
-
 [contributors-shield]: https://img.shields.io/github/contributors/rexliu3/StockTradingBotCloud?style=for-the-badge
 [contributors-url]: https://github.com/rexliu3/StockTradingBotCloud/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/rexliu3/StockTradingBotCloud?style=for-the-badge
