@@ -122,6 +122,9 @@ Rex Liu - rexliu3@berkeley.edu
 
 Project Link: [https://github.com/rexliu3/StockTradingBotCloud](https://github.com/rexliu3/StockTradingBotCloud)
 
+## Acknowledgements
+Built with reference to [article](https://medium.com/swlh/build-an-ai-stock-trading-bot-for-free-4a46bec2a18)
+
 
 [contributors-shield]: https://img.shields.io/github/contributors/rexliu3/StockTradingBotCloud?style=for-the-badge
 [contributors-url]: https://github.com/rexliu3/StockTradingBotCloud/graphs/contributors
