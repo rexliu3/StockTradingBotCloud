@@ -60,25 +60,27 @@ Python program that learns stock movement based on past and current data and buy
   ```sh
   https://www.python.org/downloads/
   ```
-* 
+* requirement.txt
   ```sh
-  npm install npm@latest -g
+  pip3 install -r requirements.txt
   ```
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
+1. Get a free key_id and secret_key at [https://alpaca.markets/algotrading](https://alpaca.markets/algotrading)
 2. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/rexliu3/StockTradingBotCloud.git
    ```
-3. Install NPM packages
+3. Install requirement.txt
    ```sh
-   npm install
+   pip3 install -r requirements.txt
    ```
-4. Enter your API in `config.js`
-   ```JS
-   const API_KEY = 'ENTER YOUR API';
+4. Enter your key_id and secret_key in `Stock_Trading_Bot.py`
+   ```PY
+   super().__init__(key_id='ENTER YOUR KEY_ID',
+                                                secret_key='ENTER YOUR SECRET_KEY',
+                                                base_url='https://paper-api.alpaca.markets')
    ```
 
 
@@ -86,9 +88,7 @@ Python program that learns stock movement based on past and current data and buy
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+Simply run `main.py`: ``` python3 main.py ```
 
 
 
@@ -122,7 +122,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Rex Liu - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Rex Liu - rexliu3@berkeley.edu
 
 Project Link: [https://github.com/rexliu3/StockTradingBotCloud](https://github.com/rexliu3/StockTradingBotCloud)
 
