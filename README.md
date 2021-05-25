@@ -60,10 +60,6 @@ Python program that learns stock movement based on past and current data and buy
   ```sh
   https://www.python.org/downloads/
   ```
-* requirement.txt
-  ```sh
-  pip3 install -r requirements.txt
-  ```
 
 ### Installation
 
