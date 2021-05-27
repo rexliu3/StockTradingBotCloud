@@ -32,7 +32,6 @@
 </details>
 
 
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 <p align="center">
@@ -62,7 +61,6 @@ Python program that learns stock movement based on past and current data and buy
   ```
 
 ### Installation
-
 1. Get a free key_id and secret_key at [https://alpaca.markets/algotrading](https://alpaca.markets/algotrading)
 2. Clone the repo
    ```sh
@@ -80,24 +78,18 @@ Python program that learns stock movement based on past and current data and buy
    ```
 
 
-
 <!-- USAGE EXAMPLES -->
 ## Usage
-
 Simply run `main.py`: ``` python3 main.py ```
-
 
 
 <!-- ROADMAP -->
 ## Roadmap
-
 See the [open issues](https://github.com/rexliu3/StockTradingBotCloud/issues) for a list of proposed features (and known issues).
-
 
 
 <!-- CONTRIBUTING -->
 ## Contributing
-
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 1. Fork the Project
@@ -107,20 +99,17 @@ Contributions are what make the open source community such an amazing place to b
 5. Open a Pull Request
 
 
-
 <!-- LICENSE -->
 ## License
-
 Distributed under the MIT License. See `LICENSE` for more information.
-
 
 
 <!-- CONTACT -->
 ## Contact
-
 Rex Liu - rexliu3@berkeley.edu
 
 Project Link: [https://github.com/rexliu3/StockTradingBotCloud](https://github.com/rexliu3/StockTradingBotCloud)
+
 
 ## Acknowledgements
 Built with reference to [article](https://medium.com/swlh/build-an-ai-stock-trading-bot-for-free-4a46bec2a18)
