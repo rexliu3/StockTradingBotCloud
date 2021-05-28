@@ -38,11 +38,7 @@
   <img width="400" height="300" src="images/screenshot.png">
 </p>
 
-Python program that learns stock movement based on past and current data and buy/sells stocks accordingly
-* Implemented Alpaca Trading API to import data and create buy/sell orders
-* Designed AI software to predict the movement of stocks based on past data and current trends; creates buy/sell orders accordingly
-* Uploaded program to Google Cloud Storage to run infinitely on Google Cloud
-* Developed with Keras, Sklearn, Numpy, Pandas, and threading
+Python program that learns stock movement based on past and current data and buy/sells stocks accordingly. Implemented with the Alpaca Trading API to import data and create buy/sell orders, the AI software can predict future movements of stocks and place orders automatically. It's also deployed to the Google Cloud Storage to run infinitely on Google Cloud.
 
 ### Built With
 * [Python](https://www.python.org/)
